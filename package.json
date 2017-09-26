@@ -1,0 +1,25 @@
+{
+  "name": "mtm6330-week-2",
+  "version": "1.0.0",
+  "description": "My first Github Repo\r Sierra McInnes-Kerr MTM6330 020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcin0308/mtm6330-week-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcin0308/mtm6330-week-2/issues"
+  },
+  "homepage": "https://github.com/mcin0308/mtm6330-week-2#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  },
+  "dependencies": {
+    "webpack-dev-server": "^2.8.2"
+  }
+}
